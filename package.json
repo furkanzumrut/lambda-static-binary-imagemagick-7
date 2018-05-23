@@ -1,0 +1,8 @@
+{
+  "name": "lambda-static-binary-imagemagick-7",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "^2.235.1",
+    "imagemagick": "^0.1.3"
+  }
+}
